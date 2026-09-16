@@ -1,0 +1,9 @@
+student_id,date,subject,study_hours,sleep_hours,phone_hours,break_hours,study_time,mood,marks
+101,10-09-2026,python,3,8,1,1,morning,happy,85
+104,10-09-2026,pytho,4,8,10,5,morning,normal,80
+101,11-09-2026,oops,4,8,3,2,morning,happy,85
+101,12-09-2026,python,2,8,3,2,morning,happy,85
+101,12-09-2026,python,4,6,1.5,2,Night,Normal,95
+101,15-09-2026,java,6,6,1,1,morning,Stressed,86
+110,15-09-2026,python,4,6,1,1,morning,happy,85
+108,15-09-2026,python,2,6,1,1,morning,normal,85
