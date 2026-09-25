@@ -27,7 +27,7 @@ EduTrack360 is designed to help students **manage study data, track academic per
 This project helped me improve my understanding of **Python programming, data analysis, file handling, visualization, problem-solving, and project development**.
 
 🔗 **GitHub Repository:**
-👉 [Add your EduTrack360 GitHub Repository Link Here]
+👉 https://github.com/vikashdas4550-a11y/Edutrack360
 
 I’m continuously improving EduTrack360 and planning to add more features in future, including a **web-based interface, dashboard, advanced analytics, and better student insights.** 🚀
 
